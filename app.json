@@ -1,0 +1,8 @@
+{
+  "name": "GoCrypto server",
+  "description": "Server for GoCrypto android app",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
